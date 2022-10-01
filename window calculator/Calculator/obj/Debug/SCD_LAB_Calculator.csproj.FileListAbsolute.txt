@@ -1,0 +1,21 @@
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\bin\Debug\SCD_LAB_Calculator.exe.config
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\bin\Debug\SCD_LAB_Calculator.exe
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\bin\Debug\SCD_LAB_Calculator.pdb
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.Form1.resources
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.Properties.Resources.resources
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.exe
+C:\Users\DELL\Downloads\SCD\SCD_LAB_Calculator\obj\Debug\SCD_LAB_Calculator.pdb
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\bin\Debug\SCD_LAB_Calculator.exe.config
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\bin\Debug\SCD_LAB_Calculator.exe
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\bin\Debug\SCD_LAB_Calculator.pdb
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.csproj.AssemblyReference.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.Form1.resources
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.Properties.Resources.resources
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.csproj.GenerateResource.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.csproj.CoreCompileInputs.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.exe
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\Calculator\obj\Debug\SCD_LAB_Calculator.pdb

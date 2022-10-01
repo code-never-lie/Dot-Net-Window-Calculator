@@ -1,0 +1,23 @@
+C:\Users\DELL\Downloads\SCD\person_data_file\bin\Debug\person_data_file.exe.config
+C:\Users\DELL\Downloads\SCD\person_data_file\bin\Debug\person_data_file.exe
+C:\Users\DELL\Downloads\SCD\person_data_file\bin\Debug\person_data_file.pdb
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.Form1.resources
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.Properties.Resources.resources
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.exe
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.pdb
+C:\Users\DELL\Downloads\SCD\person_data_file\obj\Debug\person_data_file.Form2.resources
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\bin\Debug\person_data_file.exe.config
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\bin\Debug\person_data_file.exe
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\bin\Debug\person_data_file.pdb
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.csproj.AssemblyReference.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.csproj.SuggestedBindingRedirects.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.Form1.resources
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.Form2.resources
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.Properties.Resources.resources
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.csproj.GenerateResource.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.csproj.CoreCompileInputs.cache
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.exe
+E:\Home work\SCD CLASS\Assignment # 2 Lab\Hafsa\person_data_file\obj\Debug\person_data_file.pdb
